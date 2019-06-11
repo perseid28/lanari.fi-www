@@ -3,19 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lanari.fi/posts/dark-matter/</loc>
-    <lastmod>2019-06-09T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://lanari.fi/</loc>
-    <lastmod>2019-06-09T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lanari.fi/posts/</loc>
-    <lastmod>2019-06-09T05:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-03-17T18:59:59-06:00</lastmod>
   </url>
   
   <url>
@@ -37,6 +26,12 @@
   <url>
     <loc>https://lanari.fi/posts/meet-lisp/</loc>
     <lastmod>2019-02-16T10:49:08-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lanari.fi/posts/</loc>
+    <lastmod>2019-02-16T10:49:08-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
